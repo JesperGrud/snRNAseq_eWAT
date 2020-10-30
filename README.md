@@ -13,20 +13,33 @@ Adipose tissues constitute a complex and highly plastic tissues with a remarkabl
 ### Scripts for reproduction of manuscript figures
 The scripts in this repository contains all of the code that was run to create the figures in the manuscript. <br>
 Please note that some of the algorithms are non-deterministic, which means that results vary slightly from run to run. <br>
-Due to the non-deterministic nature, your figures may not look exactly like the figures in the paper, especially starting from raw counts. <br>
+Due to the non-deterministic nature, your figures may not look exactly like the figures in the paper. <br>
 To increase reproducibility, processed data (where results of many non-deterministic steps are saved) is saved [here](https://osf.io/tsjqc/). <br>
 The scripts are in markdown format and can be opened in RStudio and the code chunk within backticks can be executed.<br>
 In addition to script and raw and processed data, we have made our data available for browsing at the Single Cell Portal [here](https://singlecell.broadinstitute.org/single_cell/study/SCP1179) <br>
 
-Main dataset | Supplementary dataset
+### Scripts and data
+#### Main dataset
+Script | Processed dataset
 ------------- | -------------
-[Quality control](Scripts/Main_00_QC.md) | [Quality control](Scripts/Supplemental_00_QC.md)
-[Overall tissue](Scripts/Main_01_Overall.md) | [Overall tissue](Scripts/Supplemental_01_Overall.md)
-[Immune cells](Scripts/Main_02_Immune.md) | [Immune cells](Scripts/Supplemental_02_Immune.md)
-[Endothelial and mesothelial cells](Scripts/Main_03_Endothelial_Mesothelial.md) | [Endothelial and mesothelial cells](Scripts/Supplemental_03_Endothelial_Mesothelial.md)
-[FAPs](Scripts/Main_04_FAP.md) | [FAPs](Scripts/Supplemental_04_FAP.md)
-[Adipocytes](Scripts/Main_05_Adipocytes.md) | [Adipocytes](Scripts/Supplemental_05_Adipocytes.md)
-[Adipogenesis](Scripts/Main_06_Adipogenesis.md) | 
+[Quality control](Scripts/Main_00_QC.md) |
+[Overall tissue](Scripts/Main_01_Overall.md) | [Open Science Framework](https://osf.io/arxwz/download)
+[Immune cells](Scripts/Main_02_Immune.md) | [Open Science Framework](https://osf.io/vkmx5/download)
+[Endothelial and mesothelial cells](Scripts/Main_03_Endothelial_Mesothelial.md) | [Open Science Framework](https://osf.io/sw7xd/download)
+[FAPs](Scripts/Main_04_FAP.md) | [Open Science Framework](https://osf.io/v8zrx/download) 
+[Adipocytes](Scripts/Main_05_Adipocytes.md) | [Open Science Framework](https://osf.io/6eh8d/download)
+[Adipogenesis](Scripts/Main_06_Adipogenesis.md) | [Open Science Framework](https://osf.io/exuwn/download)
+
+
+#### Supplementary dataset
+Script | Processed dataset
+------------- | -------------
+[Quality control](Scripts/Supplemental_00_QC.md) |
+[Overall tissue](Scripts/Supplemental_01_Overall.md) | [Open Science Framework](https://osf.io/vf2z4/download)
+[Immune cells](Scripts/Supplemental_02_Immune.md) | [Open Science Framework](https://osf.io/z5wvy/download)
+[Endothelial and mesothelial cells](Scripts/Supplemental_03_Endothelial_Mesothelial.md) | [Open Science Framework](https://osf.io/qwc9m/download)
+[FAPs](Scripts/Supplemental_04_FAP.md) | [Open Science Framework](https://osf.io/pdb47/download)
+[Adipocytes](Scripts/Supplemental_05_Adipocytes.md) | [Open Science Framework](https://osf.io/fwgr4/download)
 
 ### Links to relavant sites
 [Full-length manuscript](http://www.sciencedirect.com/science/article/pii/S109727651730240X)<br>
