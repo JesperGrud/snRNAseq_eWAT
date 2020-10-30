@@ -14,9 +14,9 @@ Adipose tissues constitute a complex and highly plastic tissues with a remarkabl
 The scripts in this repository contains all of the code that was run to create the figures in the manuscript. <br>
 Please note that some of the algorithms are non-deterministic, which means that results vary slightly from run to run. <br>
 Due to the non-deterministic nature, your figures may not look exactly like the figures in the paper. <br>
-To increase reproducibility, processed data (where results of many non-deterministic steps are saved) is saved [here](https://osf.io/tsjqc/). <br>
+To increase reproducibility, processed data (where results of many non-deterministic steps are saved) is also linked. <br>
 The scripts can be opened in RStudio and the code chunk within backticks can be executed.<br>
-In addition, we have made our data available for browsing at the Single Cell Portal [here](https://singlecell.broadinstitute.org/single_cell/study/SCP1179) <br>
+In addition, we have made our data available for browsing at the [Single Cell Portal](https://singlecell.broadinstitute.org/single_cell/study/SCP1179) <br>
 
 ### Links
 #### Main dataset
