@@ -15,8 +15,8 @@ The scripts in this repository contains all of the code that was run to create t
 Please note that some of the algorithms are non-deterministic, which means that results vary slightly from run to run. <br>
 Due to the non-deterministic nature, your figures may not look exactly like the figures in the paper. <br>
 To increase reproducibility, processed data (where results of many non-deterministic steps are saved) is saved [here](https://osf.io/tsjqc/). <br>
-The scripts are in markdown format and can be opened in RStudio and the code chunk within backticks can be executed.<br>
-In addition to script and raw and processed data, we have made our data available for browsing at the Single Cell Portal [here](https://singlecell.broadinstitute.org/single_cell/study/SCP1179) <br>
+The scripts can be opened in RStudio and the code chunk within backticks can be executed.<br>
+In addition, we have made our data available for browsing at the Single Cell Portal [here](https://singlecell.broadinstitute.org/single_cell/study/SCP1179) <br>
 
 ### Links
 #### Main dataset
