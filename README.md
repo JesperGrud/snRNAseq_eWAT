@@ -18,7 +18,7 @@ To increase reproducibility, processed data (where results of many non-determini
 The scripts are in markdown format and can be opened in RStudio and the code chunk within backticks can be executed.<br>
 In addition to script and raw and processed data, we have made our data available for browsing at the Single Cell Portal [here](https://singlecell.broadinstitute.org/single_cell/study/SCP1179) <br>
 
-### Scripts and data
+### Links
 #### Main dataset
 Script | Processed dataset
 ------------- | -------------
