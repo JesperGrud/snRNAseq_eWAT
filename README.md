@@ -41,7 +41,7 @@ Script | Processed dataset
 [FAPs](Scripts/Supplemental_04_FAP.md) | [Download](https://osf.io/pdb47/download)
 [Adipocytes](Scripts/Supplemental_05_Adipocytes.md) | [Download](https://osf.io/fwgr4/download)
 
-### Links to relavant sites
+#### Relevant sites
 [Full-length manuscript](http://www.sciencedirect.com/science/article/pii/S109727651730240X)<br>
 [Open Science Framework](https://osf.io/tsjqc/)<br>
 [Single Cell Portal](https://singlecell.broadinstitute.org/single_cell/study/SCP1179)<br>
