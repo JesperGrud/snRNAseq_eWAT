@@ -1,4 +1,4 @@
-# Plasticity of epididymal adipose tissue in response to diet-induced obe-sity at single-nucleus resolution
+# Plasticity of epididymal adipose tissue in response to diet-induced obesity at single-nucleus resolution
 **Anitta Kinga Sárvári<sup>1,3</sup>, Elvira Laila Van Hauwaert<sup>1,3</sup>, Lasse Kruse Markussen<sup>1</sup>, Ellen Gammelmark<sup>1</sup>, Ann-Britt Marcher<sup>1</sup>, Morten F. Ebbesen<sup>2</sup>, Ronni Nielsen<sup>1</sup>, Jonathan R. Brewer<sup>2</sup>, Jesper Grud Skat Madsen<sup>1,4</sup>, Susanne Mandrup<sup>1,4</sup>**
 
 
