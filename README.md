@@ -42,8 +42,8 @@ Script | Processed dataset
 [Adipocytes](Scripts/Supplemental_05_Adipocytes.md) | [Download](https://osf.io/fwgr4/download)
 
 #### Relevant sites
-[Full-length manuscript](http://www.sciencedirect.com/science/article/pii/S109727651730240X)<br>
+Full-length manuscript<br>
 [Open Science Framework](https://osf.io/tsjqc/)<br>
 [Single Cell Portal](https://singlecell.broadinstitute.org/single_cell/study/SCP1179)<br>
-[NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95533)<br>
+[NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160729)<br>
 [ATLAS website](https://www.sdu.dk/en/atlas)<br>
