@@ -24,10 +24,10 @@ Script | Processed dataset
 ------------- | -------------
 [Quality control](Scripts/Main_00_QC.md) |
 [Overall tissue](Scripts/Main_01_Overall.md) | [Download](https://osf.io/arxwz/download)
-[Immune cells](Scripts/Main_02_Immune.md) | [Download](https://osf.io/vkmx5/download)
+[Immune cells](Scripts/Main_02_Immune.md) | [Download](https://osf.io/6eh8d/download)
 [Endothelial and mesothelial cells](Scripts/Main_03_Endothelial_Mesothelial.md) | [Download](https://osf.io/sw7xd/download)
 [FAPs](Scripts/Main_04_FAP.md) | [Download](https://osf.io/v8zrx/download) 
-[Adipocytes](Scripts/Main_05_Adipocytes.md) | [Download](https://osf.io/6eh8d/download)
+[Adipocytes](Scripts/Main_05_Adipocytes.md) | [Download](https://osf.io/vkmx5/download)
 [Adipogenesis](Scripts/Main_06_Adipogenesis.md) | [Download](https://osf.io/exuwn/download)
 
 
